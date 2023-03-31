@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.mr.tripathi.model.Student;
 
+import jakarta.validation.Valid;
+
 @RestController
 public class Main {
 
@@ -23,7 +25,7 @@ public class Main {
 		return new ResponseEntity<String>("WElcome Back", HttpStatus.OK);
 	}
 	@GetMapping("/Student/{roll}/{batch}/{marks}")
-	public ResponseEntity<Student> addStudent(@PathVariable("roll") Integer roll,@PathVariable("batch") String batch, @PathVariable("marks") Integer marks) {
+	public ResponseEntity<Student> addStudent(@Valid @PathVariable("roll") Integer roll,@PathVariable("batch") String batch, @PathVariable("marks") Integer marks) {
 		Student st = new Student(roll, batch, marks, LocalDateTime.now());
 		return new ResponseEntity<Student>(st, HttpStatus.CREATED);
 	}
