@@ -6,7 +6,7 @@ import com.mrTripathi.model.Customer;
 import java.util.*;
 
 public interface CustomerService {
-	public Customer registerCustomer(Customer customer) throws CustomerException;
+	public Customer registerCustomer(Customer customer) ;
 
 	public Customer getCustomerDetails(String email) throws CustomerException;
 

@@ -15,7 +15,7 @@ public class CustomerServiceImpl implements CustomerService {
 	private CustomerRepository cr;
 
 	@Override
-	public Customer registerCustomer(Customer customer) throws CustomerException {
+	public Customer registerCustomer(Customer customer)  {
 		// TODO Auto-generated method stub
 		return cr.save(customer);
 	}
