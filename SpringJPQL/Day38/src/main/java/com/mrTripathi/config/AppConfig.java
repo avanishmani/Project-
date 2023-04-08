@@ -17,6 +17,7 @@ public class AppConfig {
 				.authenticated().and().csrf().disable().formLogin().and().httpBasic();
 		return http.build();
 	}
+	@Bean
 	public PasswordEncoder psw() {
 		return new BCryptPasswordEncoder();
 	}
