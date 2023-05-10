@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e24e03b-751c-4610-a633-8c929436fab3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/JDBC/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/JDBC/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/0.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2506192191.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2506192191.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geektrust/metrocardGeektrust" beforeDir="false" afterPath="$PROJECT_DIR$/../Geektrust/metrocardGeektrust" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day1/target/classes/META-INF/maven/com.masai/Day1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day1/target/classes/META-INF/maven/com.masai/Day1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day15/target/classes/META-INF/maven/com.Avanish/Day15/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day15/target/classes/META-INF/maven/com.Avanish/Day15/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day2/target/classes/META-INF/maven/com.masai/Day2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day2/target/classes/META-INF/maven/com.masai/Day2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day3/target/classes/META-INF/maven/com.masai/Day3/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day3/target/classes/META-INF/maven/com.masai/Day3/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day4/target/classes/META-INF/maven/com.masai/Day4/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day4/target/classes/META-INF/maven/com.masai/Day4/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day5/target/classes/META-INF/maven/com.masai/Day5/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day5/target/classes/META-INF/maven/com.masai/Day5/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day6/target/classes/META-INF/maven/com.masai/Day6/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day6/target/classes/META-INF/maven/com.masai/Day6/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day7/target/classes/META-INF/maven/com.masai/Day7/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day7/target/classes/META-INF/maven/com.masai/Day7/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day8/target/classes/META-INF/maven/com.masai/Day8/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day8/target/classes/META-INF/maven/com.masai/Day8/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJPQL/Day9/target/classes/META-INF/maven/com.masai/Day9/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJPQL/Day9/target/classes/META-INF/maven/com.masai/Day9/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringXml/Day25/target/classes/META-INF/maven/com.masai/Day25/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringXml/Day25/target/classes/META-INF/maven/com.masai/Day25/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PF4DDDsouTgiug6ryyunRExWFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e24e03b-751c-4610-a633-8c929436fab3" name="Changes" comment="" />
+      <created>1683039380526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683039380526</updated>
+    </task>
+    <servers />
+  </component>
+</project>
