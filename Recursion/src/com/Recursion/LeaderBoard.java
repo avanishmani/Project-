@@ -40,7 +40,7 @@ public class LeaderBoard {
             if (i > 0 && students.get(i).marks != students.get(i - 1).marks) {
                 rank = i + 1;
             }
-            System.out.println(students.get(i).name + " " + rank);
+            System.out.println( rank + " " +students.get(i).name);
         }
     }
 }
